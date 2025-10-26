@@ -1,0 +1,26 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon run js/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alina-koman/web-lab3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alina-koman/web-lab3/issues"
+  },
+  "homepage": "https://github.com/alina-koman/web-lab3#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
